@@ -1,0 +1,44 @@
+.button-style,#button{
+    width:80px;
+    height: 25px;
+    margin:5px auto;
+}
+#new-use-name,#image-url,#button{
+margin-top: 20px;
+margin-bottom: 30px;
+}
+.text
+{
+    font-size: 15px;
+    font-weight: 1000;
+    margin: auto;
+
+}
+.image
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    float: left;
+}
+
+.container
+{
+    background: burlywood;
+    padding: 20px 30px 10px 30px;
+    width:100px;  
+    border-radius: 15px;
+    margin: 10px auto;
+    text-align: center;
+
+}
+.user_list
+{
+   
+   /* display: grid; */
+   /* justify-content: center;
+   row-gap:5px; */
+}
+#new-user-name,#image-url{
+    font-size: 25px
+}
